@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">jjj</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="chronometer">Chronometer</string>
+    <string name="button9">Button9</string>
+    <string name="pulsado">pulsado</string>
+
+</resources>
